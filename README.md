@@ -1,2 +1,1 @@
-# news-scraper
-All the News That's Fit to Scrape
+All the news that's fit to scrape! :D
