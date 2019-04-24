@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yearmlg/news-scraper.git"
+    "url": "git+https://github.com/ByDillon/news-scraper.git"
   },
   "author": "Dillon Tidwell",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yearmlg/news-scraper/issues"
+    "url": "https://github.com/ByDillon/news-scraper/issues"
   },
-  "homepage": "https://github.com/yearmlg/news-scraper#readme",
+  "homepage": "https://github.com/ByDillon/news-scraper#readme",
   "dependencies": {
     "axios": "^0.18.0",
     "cheerio": "^1.0.0-rc.3",
